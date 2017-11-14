@@ -31,3 +31,7 @@ h3 header{
   float: left;
   font-size: 36px;
 }
+h3 a {
+  text-decoration: none;
+  color: #868e96;
+}
