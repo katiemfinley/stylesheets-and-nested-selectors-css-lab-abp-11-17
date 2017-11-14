@@ -22,7 +22,7 @@ ul li {
     display: inline;
     margin: 0 10 0 0;
 }
-nav a {
+a nav {
   text-decoration: none;
   color: #007bff;
   font-size: 18px
